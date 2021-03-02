@@ -19,5 +19,13 @@
     "test": "test"
   },
   "keywords": [],
-  "description": ""
+  "description": "1. Please review digitsComma.js in apps directory as answer of Q1. \r 2. Please review pipeFunction.js in apps directory as answer of Q2.\r 3. Please review expansionBusiness.js in apps directory as answer of Q3.\r 4. Please review unitTest.js in test directory of unit test codes of above questions.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrt0231/backend_engineer_exercise_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xrt0231/backend_engineer_exercise_1/issues"
+  },
+  "homepage": "https://github.com/xrt0231/backend_engineer_exercise_1#readme"
 }
